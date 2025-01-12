@@ -1,5 +1,5 @@
 # use a minimal alpine image
-FROM alpine:3.18.6
+FROM alpine:3.21.2
 
 # Add Maintainer Info
 LABEL maintainer="signoz"
